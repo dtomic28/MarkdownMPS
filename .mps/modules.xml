@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/MarkdownExtension.runtime/MarkdownExtension.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/MarkdownExtension.sandbox/MarkdownExtension.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/MarkdownExtension/MarkdownExtension.mpl" folder="" />
+    </projectModules>
+  </component>
+</project>
